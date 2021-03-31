@@ -1,6 +1,6 @@
-# AskMoreXtension
+# ExecuteMoreXtension
 
-This software package provides eight Java operations developed at the Digital Academy of the Academy of Sciences and Literature | Mainz that may be used to create custom actions within the Oxygen XML Editor that simplify local IO operations. A documentation of all operations can be found in the [wiki of this repository](https://github.com/digicademy/ExecuteMoreXtension/wiki).
+This software package provides four Java operations developed at the Digital Academy of the Academy of Sciences and Literature | Mainz that may be used to create custom actions within the Oxygen XML Editor that simplify local IO operations. A documentation of all operations can be found in the [wiki of this repository](https://github.com/digicademy/ExecuteMoreXtension/wiki).
 
 
 # Requirements
