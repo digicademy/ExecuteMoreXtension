@@ -4,7 +4,7 @@ This software package provides four Java operations developed at the Digital Aca
 
 
 # Requirements
-The ExecuteMoreXtension was developed and tested to be used with the versions 19.1 to 21.0 of the [Oxygen XML Editor](https://www.oxygenxml.com/).
+The ExecuteMoreXtension was developed and tested to be used with the versions 19.1 to 27.1 of the [Oxygen XML Editor](https://www.oxygenxml.com/) and depends on the the Saxon version included.
 
 Since it extends functionality of the [AskMoreXtension](https://github.com/digicademy/AskMoreXtension) you will also need to add a released JAR with a version greater than or equal to 1.3.0.
 
@@ -12,7 +12,7 @@ Since it extends functionality of the [AskMoreXtension](https://github.com/digic
 # Download and Installation
 All releases can be downloaded as a .jar file from the [release page of this repository](https://github.com/digicademy/ExecuteMoreXtension/releases).
 
-You can include the package into your own Oxygen framework by adding released AskMoreXtension and ExecuteMoreXtension JARs to the classpath. Please find notes on how to do this in the [official documentation of the ClassPath Tab](https://www.oxygenxml.com/doc/versions/19.1/ug-editor/topics/document-type-classpath-tab.html).
+You can include the package into your own Oxygen framework by adding released AskMoreXtension and ExecuteMoreXtension JARs to the classpath. Please find notes on how to do this in the [official documentation of the ClassPath Tab](https://www.oxygenxml.com/doc/versions/27.1/ug-editor/topics/document-type-classpath-tab.html).
 
 
 # License
